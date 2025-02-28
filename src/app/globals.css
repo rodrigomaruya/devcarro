@@ -88,7 +88,7 @@ p {
   @apply text-base md:text-xl text-customText;
 }
 a {
-  @apply text-base md:text-xl text-customText;
+  @apply text-base md:text-lg text-customText;
 }
 
 li {

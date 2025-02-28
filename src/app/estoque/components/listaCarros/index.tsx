@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { Card } from "@/components/card";
 import { StaticImageData } from "next/image";
-import { carros } from "@/app/estoque/page";
+import { carros } from "@/services/carros";
 
 interface ListaCarroProps {
   image: StaticImageData;

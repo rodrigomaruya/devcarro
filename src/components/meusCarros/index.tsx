@@ -3,7 +3,7 @@
 import useEmblaCarousel from "embla-carousel-react";
 import { ChevronRight, ChevronLeft } from "lucide-react";
 import { Card } from "@/components/card";
-import { carros } from "@/app/estoque/page";
+import { carros } from "@/services/carros";
 import { Container } from "../container";
 import Link from "next/link";
 
